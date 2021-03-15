@@ -25,7 +25,5 @@ public class Ex2 {
 		System.out.println('a');
 		// 문자열
 		System.out.println("abcd");
-		
-		ㅁㅇ럼ㄴ이러ㅏㅣㅁㅇ리ㅏㅓㅁㄴ이라ㅓ
 	}
 }
