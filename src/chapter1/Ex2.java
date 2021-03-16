@@ -8,7 +8,7 @@ public class Ex2 {
 		
 //		System.out.println("Hello");
 //		System.out.println("World~!");
-		
+		adsfasdfdas
 //		System.out.println("I am");
 //		System.out.println("a");
 //		System.out.println("Java Programmer");
