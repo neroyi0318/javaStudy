@@ -12,11 +12,6 @@ public class Ex1 {
 		System.out.println("주석 연습 중...");		// 주석 연습 중... 출력
 		System.out.println("출력1");
 		System.out.println("출력2");
-		
-		// System.out.println();	// 소스코드를 주석처리하면 실행되지 않음
-//		 System.out.println();
-//		 System.out.println();
-//		 System.out.println();
 	}
 }
 
